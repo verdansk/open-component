@@ -1,0 +1,62 @@
+.price-text {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2.plan-type {
+  color: white;
+  font-size: 0.6em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.price-text h3 {
+  font-size: 3em;
+  font-weight: 400;
+  padding-right: 5px;
+  margin: 0;
+}
+
+.price-text h2 {
+   padding-right: 5px;
+   font-weight: 400;
+}
+
+.price-text h4 {
+  align-self: flex-end;
+}
+
+.price-plan {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.price-plan-hline {
+  width: 20px;
+  height: 1px;
+  background: white;
+  margin: 0px 5px;
+}
+
+.price-plan h2 {
+  font-size: 1.2em;
+  margin: 0px;
+}
+
+.price-details {
+  list-style-type: none;
+  text-align: center;
+  padding-left: 0px;
+  color: white;
+  font-weight: 300;
+  font-size: 0.7em;
+}
+
+.price-details li {
+  margin: 15px 0px;
+}

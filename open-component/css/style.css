@@ -1,0 +1,43 @@
+/* Fonts */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700");
+@import url("https://use.fontawesome.com/releases/v5.0.10/css/all.css");
+
+/* Components */
+/* @import url("components/name_of_component.css"); */
+@import url(components/container.css);
+@import url(components/button.css);
+@import url(components/cards.css);
+@import url(components/text.css);
+@import url(components/shapes.css);
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  background: radial-gradient(circle, rgba(59,52,77,0.902676399026764) 0%, rgba(59,52,77,1) 24%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*.text-center {
+  text-align: center;
+}
+.container {
+  max-width: 900px;
+  margin: 50px auto;
+}*/
+
+h1 {
+  color: white;
+  font-size: 2em;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  color: white;
+  margin: 0;
+  font-weight: 300;
+  font-size: .8em;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.buy-button-blue {
+  text-align: right;
+  font-size: 0.7em;
+  padding-right: 10px;
+  font-weight: 400;
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+}
+
+.buy-button {
+  text-align: right;
+  font-size: 0.7em;
+  padding-right: 10px;
+  font-weight: 400;
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+}
+
+.buy-button a {
+  text-decoration: none;
+  color: grey;
+}
